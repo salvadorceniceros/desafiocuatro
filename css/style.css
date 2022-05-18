@@ -79,6 +79,8 @@ fondos: #EFFFFD Titulos: #006778 Subtítulos: #42C2FF enlaces: #FFD124 extra: #8
     color: #006778;
 }
 
+/* 
+submenú deshabilitado temporalmente
 .sub-menu {
     background-color: white;
     color: black;
@@ -87,11 +89,11 @@ fondos: #EFFFFD Titulos: #006778 Subtítulos: #42C2FF enlaces: #FFD124 extra: #8
 .mimenu ul li:hover>ul {
     display: block;
     background-color: white;
-}
+} 
 
 main h2 h1 {
     text-align: center;
-}
+} */
 
 
 
